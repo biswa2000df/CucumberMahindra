@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8bf9833-5c93-4ad4-80ee-21b93a043ec8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BING_EDGE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BING_EDGE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BING_EDGE/src/main/java/Microsoft/edgeBing4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BING_EDGE/src/main/java/Microsoft/edgeBing4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BING_EDGE/src/main/java/Microsoft/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BING_EDGE/src/main/java/Microsoft/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection5/src/Collection5/HashMapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection5/src/Collection5/HashMapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/src/main/java/JENKINSPUSH/JENKINS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEVOPSJENKINSPUSH/src/main/java/JENKINSPUSH/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcelPassFail/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcelPassFail/target/classes/META-INF/maven/JavaExcelPassFail/ExcelPassFail/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcelPassFail/target/classes/META-INF/maven/JavaExcelPassFail/ExcelPassFail/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework/target/classes/META-INF/maven/Framework/Framework/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework/target/classes/META-INF/maven/Framework/Framework/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDFCBANK/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDFCBANK/target/classes/META-INF/maven/IDFCBANKAUTOMATE/IDFCBANK/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IDFCBANK/target/classes/META-INF/maven/IDFCBANKAUTOMATE/IDFCBANK/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/Report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/target/classes/META-INF/maven/Apmosys/ISHINE/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/target/classes/META-INF/maven/Apmosys/ISHINE/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/Suite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/Suite/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/Suite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/Suite/Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/junitreports/TEST-com.practice.IshinePortal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/junitreports/TEST-com.practice.IshinePortal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/old/Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/old/Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISHINE/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ISHINE/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKINDOCKER" beforeDir="false" afterPath="$PROJECT_DIR$/../JENKINDOCKER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKIN_DOCKER/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKIN_DOCKER/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKIN_DOCKER/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKIN_DOCKER/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKIN_DOCKER/bin" beforeDir="false" afterPath="$PROJECT_DIR$/../JENKIN_DOCKER/bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKIN_DOCKER/src/jenkins_docker/jenkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JENKIN_DOCKER/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MAVENPROJECT/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MAVENPROJECT/target/classes/META-INF/maven/JUSTPRACTICE/MAVENPROJECT/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MAVENPROJECT/target/classes/META-INF/maven/JUSTPRACTICE/MAVENPROJECT/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mokito/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mokito/target/classes/META-INF/maven/Apmosys/Mokito/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mokito/target/classes/META-INF/maven/Apmosys/Mokito/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEWJunit/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEWJunit/target/classes/META-INF/maven/JJ/NEWJunit/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEWJunit/target/classes/META-INF/maven/JJ/NEWJunit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewIshinePortal/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewIshinePortal/target/classes/META-INF/maven/Apmosys/NewIshinePortal/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewIshinePortal/target/classes/META-INF/maven/Apmosys/NewIshinePortal/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROGRESSBAR/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROGRESSBAR/target/classes/META-INF/maven/PROJECT20/PROGRESSBAR/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROGRESSBAR/target/classes/META-INF/maven/PROJECT20/PROGRESSBAR/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeFramework/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeFramework/target/classes/META-INF/maven/Apmosys/PracticeFramework/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeFramework/target/classes/META-INF/maven/Apmosys/PracticeFramework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../READ_EXCELSHEET_FRAMEWORK/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../READ_EXCELSHEET_FRAMEWORK/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../READ_EXCELSHEET_FRAMEWORK/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../READ_EXCELSHEET_FRAMEWORK/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../READ_EXCELSHEET_FRAMEWORK/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../READ_EXCELSHEET_FRAMEWORK/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTraining/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTraining/target/classes/META-INF/maven/Apmosys/SeleniumTraining/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTraining/target/classes/META-INF/maven/Apmosys/SeleniumTraining/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SentJavaMail/src/main/java/SentJavaMail/sentJavaMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SentJavaMail/src/main/java/SentJavaMail/sentJavaMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SentJavaMail/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SentJavaMail/target/classes/META-INF/maven/Project/SentJavaMail/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SentJavaMail/target/classes/META-INF/maven/Project/SentJavaMail/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SentJavaMail/target/classes/SentJavaMail/sentJavaMail.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SentJavaMail/target/classes/SentJavaMail/sentJavaMail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SikuliProject/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SikuliProject/target/classes/META-INF/maven/SikuliProject/SikuliProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SikuliProject/target/classes/META-INF/maven/SikuliProject/SikuliProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TESTNGPROJECT/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TESTNGPROJECT/target/classes/META-INF/maven/APMOSYS/TESTNGPROJECT/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TESTNGPROJECT/target/classes/META-INF/maven/APMOSYS/TESTNGPROJECT/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGProjectNew/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGProjectNew/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGProjectNew/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNGProjectNew/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGProjectNew/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGProjectNew/target/classes/META-INF/maven/Apmosys/TestNGProjectNew/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGProjectNew/target/classes/META-INF/maven/Apmosys/TestNGProjectNew/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGwithExcelReaad/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGwithExcelReaad/target/classes/META-INF/maven/APMOSYS/EXCELREAD/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNGwithExcelReaad/target/classes/META-INF/maven/APMOSYS/EXCELREAD/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testng/Testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng/target/classes/META-INF/maven/Apmosys/Testng/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testng/target/classes/META-INF/maven/Apmosys/Testng/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Videorecordin/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Videorecordin/target/classes/META-INF/maven/VIDEORECORDING/video/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Videorecordin/target/classes/META-INF/maven/VIDEORECORDING/video/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.report/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.report/target/classes/META-INF/maven/ReportGeneration/com.report/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.report/target/classes/META-INF/maven/ReportGeneration/com.report/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../devopsBiswajita/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../devopsBiswajita/target/classes/META-INF/maven/Apmosys/devopsBiswajita/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../devopsBiswajita/target/classes/META-INF/maven/Apmosys/devopsBiswajita/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huuhuh/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huuhuh/target/classes/META-INF/maven/nakjshkjlhks/huuhuh/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huuhuh/target/classes/META-INF/maven/nakjshkjlhks/huuhuh/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sushilp/target/classes/META-INF/maven/Apmosys1/sushilp/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sushilp/target/classes/META-INF/maven/Apmosys1/sushilp/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webportal/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webportal/target/classes/META-INF/maven/com.apmosys/webportal/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webportal/target/classes/META-INF/maven/com.apmosys/webportal/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2U8uoU1fIz8CcUnNphAvajYoBgp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8bf9833-5c93-4ad4-80ee-21b93a043ec8" name="Changes" comment="" />
+      <created>1692333708247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692333708247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
